@@ -1,12 +1,8 @@
 # splunk-architect
 Repository for all my notes and study material for the Splunk Architect exam.
-
 ## Goals
 I plan to include markdown files with notes, sample .conf files, or anything useful I've picked up on this journey. This repository will be built around the Splunk Enterprise Certifed Architect blueprint found in the following link:
 * [Splunk Enterprise Certifed Architect Blueprint](https://www.splunk.com/pdfs/training/Splunk-Test-Blueprint-Architect-v.1.1.pdf)
-
-Hopefully there will be something useful for everyone.
-
 ## Blueprint
 1. Introduction
    * Describe a deployment plan
@@ -73,5 +69,5 @@ Hopefully there will be something useful for everyone.
     * Search head cluster deployer
     * Captaincy transfer
     * Search head member addition and decommissioning
-20.0 KV Store Collection and Lookup Management
+20. KV Store Collection and Lookup Management
     * KV Store collection in Splunk clusters Up
