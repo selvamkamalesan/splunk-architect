@@ -1,7 +1,7 @@
 # splunk-architect
 Repository for all my notes and study material for the Splunk Architect exam.
 ## Goals
-I plan to include markdown files with notes, sample .conf files, or anything useful I've picked up on this journey. This repository will be built around the Splunk Enterprise Certifed Architect blueprint found in the following link:
+I plan to include markdown files with notes, sample .conf files, or anything useful I've picked up on this journey. This repository will be built around the Splunk Enterprise Certifed Architect blueprint, which can be downloaded from the following link:
 * [Splunk Enterprise Certifed Architect Blueprint](https://www.splunk.com/pdfs/training/Splunk-Test-Blueprint-Architect-v.1.1.pdf)
 ## Blueprint
 1. Introduction
